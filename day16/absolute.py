@@ -1,0 +1,6 @@
+a=int(input("enter a value:"))
+b=float(input("enter b value:"))
+c=float(input("enter c value:"))
+print("abs(-a):",abs(a))
+print("abs(b):",abs(b))
+print("abs(c):",abs(c))
